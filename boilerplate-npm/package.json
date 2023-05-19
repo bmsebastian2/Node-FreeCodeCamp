@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Sebastian Benitez",
   "description": "My project that does something BMSEBASTIAN",
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "sebastiaNode"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
