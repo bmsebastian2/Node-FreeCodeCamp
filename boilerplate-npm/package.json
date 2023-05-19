@@ -15,7 +15,7 @@
   },
   "main": "server.js",
   "scripts": {
-    "start": "node server.js -s -n -L -p $PORT"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
